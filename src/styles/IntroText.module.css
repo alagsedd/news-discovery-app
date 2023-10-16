@@ -1,0 +1,14 @@
+.motherHeading {
+    display: flex;
+    justify-content: center;
+}
+.heading {
+    color: aqua;
+    font-size: 1.3rem;
+    font-weight: 700;
+    border-bottom: 1px solid #fff;
+}
+.intro {
+    color: #fff;
+    margin-bottom: 1rem;
+}
